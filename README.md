@@ -6,3 +6,4 @@ List of directories in NZ for SEO purposes.
 - [Kiwi Directory](https://kiwi.directory)
 - [Waikato Directory](https://wko.directory)
 - [Auckland Directory](https://auk.directory)
+- [Wellington Directory](https://welly.directory)
