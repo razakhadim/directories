@@ -7,3 +7,5 @@ List of directories in NZ for SEO purposes.
 - [Waikato Directory](https://wko.directory)
 - [Auckland Directory](https://auk.directory)
 - [Wellington Directory](https://welly.directory)
+- [Northland Directory)(https://northland.directory)
+- [Manawatu-Whanganui Directory](https://horizons.directory/)
