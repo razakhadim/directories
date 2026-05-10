@@ -31,7 +31,7 @@ List of directories in NZ for SEO purposes.
 - [Hardhat](https://www.hardhat.co.nz)
 - [Autoria](https://www.autoria.co.nz)
 - [Yumtopia](https://www.yumtopia.co.nz)
-- [Aotearoa](https://aotearoa.directoy/)
+- [Aotearoa](https://aotearoa.directory/)
 
 ---
 #upcoming
